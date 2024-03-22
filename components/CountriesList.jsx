@@ -36,6 +36,7 @@ if(countriesData.length===0){
                 population={country.population}
                 region={country.region}
                 capital={country.capital?.[0]}
+               data={country}
               />
             )
           })}

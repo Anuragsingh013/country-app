@@ -9,6 +9,7 @@
     box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.2);
     border-radius: 4px;
     cursor: pointer;
+    background-color: var(--elements-color);
 }
 
 .country-details {
@@ -47,6 +48,7 @@
 .border-countries a {
     padding: 4px 16px;
     box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.2);
+    background-color: var(--elements-color);
     border-radius: 4px;
     font-size: 14px;
 }
